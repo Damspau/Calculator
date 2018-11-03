@@ -10,6 +10,6 @@ int addition(int a, int b)
 
 int main()
 {
-    printf("%d esketit\n", addition(1,4));
+    printf("%d lesketit\n", addition(1,4));
     return 0;
 }
